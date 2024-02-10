@@ -1,12 +1,12 @@
 This project is a recreation of the Discord landing page using HTML and CSS. The purpose of this project is to practice front-end development skills by replicating the design and layout of a real-world website.
 
 Table of Contents
-Project Description
-Features
-Technologies Used
-Setup and Usage
-Contributing
-License
+#Project Description
+#Features
+#Technologies Used
+#Setup and Usage
+#Contributing
+#License
 
 Project Description
 The Discord landing page recreation project aims to mimic the design and layout of the official Discord website. It includes various sections such as the navigation bar, main content, feature sections, and footer. The project utilizes HTML for structure and CSS for styling to achieve the desired appearance.
