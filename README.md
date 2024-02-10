@@ -6,9 +6,9 @@ This project is a recreation of the Discord landing page using HTML and CSS. The
 
 ## Table of Contents
 
-Project Description
-Features
-Technologies Used
-Setup and Usage
-Contributing
-License
+##Project Description
+##Features
+##Technologies Used
+##Setup and Usage
+##Contributing
+##License
