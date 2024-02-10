@@ -32,7 +32,7 @@ The Discord landing page recreation project aims to mimic the design and layout 
 1. Clone the repository to your local machine using the following command:
 
     ```
-    git clone https://github.com/your-username/Discord-Landing-Page.git
+    git clone https://github.com/YASHRAJ81/Discord-Landing-Page.git
     ```
 
 2. Open the `index.html` file in your web browser to view the Discord landing page recreation.
