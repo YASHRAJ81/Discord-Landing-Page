@@ -32,7 +32,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/discord-landing-page.git
+`git clone https://github.com/YASHRAJ81/discord-landing-page.git`
 Open the index.html file in your web browser to view the Discord landing page recreation.
 ## Contributing
 
