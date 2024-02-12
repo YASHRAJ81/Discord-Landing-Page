@@ -38,6 +38,11 @@ The Discord landing page recreation project aims to mimic the design and layout 
 
 2. Open the `index.html` file in your web browser to view the Discord landing page recreation.
 
+
+## View Project
+
+You can view the project live [here](https://discord-murex-tau.vercel.app/).
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Please ensure that your contributions align with the project's goals and follow best practices for code quality and style.
@@ -46,6 +51,4 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 This project is licensed under the MIT License.
 
-## View Project
 
-You can view the project live [here](https://discord-murex-tau.vercel.app/).
