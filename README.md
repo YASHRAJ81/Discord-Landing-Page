@@ -9,6 +9,7 @@ This project is a recreation of the Discord landing page using HTML and CSS. The
 - [Setup and Usage](#setup-and-usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [View Project](#view-project)
 
 ## Project Description
 
@@ -44,3 +45,7 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 ## License
 
 This project is licensed under the MIT License.
+
+## View Project
+
+You can view the project live [here](https://discord-murex-tau.vercel.app/).
