@@ -41,7 +41,7 @@ The Discord landing page recreation project aims to mimic the design and layout 
 
 ## View Project
 
-You can view the project live [here]([https://yashraj81.github.io/Discord-Landing-Page/]).
+You can view the live preview of this project [here](https://yashraj81.github.io/Discord-Landing-Page/).
 
 ## Contributing
 
